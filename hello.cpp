@@ -1,5 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout<<"Hello"<<endl;
+	int n;
+	cout<<"Hello, enter a number :"<<endl;
+	cin>>n;
 }
